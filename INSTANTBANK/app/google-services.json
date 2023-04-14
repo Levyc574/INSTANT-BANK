@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550067701054",
+    "project_id": "instant-bank",
+    "storage_bucket": "instant-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550067701054:android:c5939c2ee9982f49c4586f",
+        "android_client_info": {
+          "package_name": "com.example.instantbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550067701054-0p5snb21275anuenjbqfg12fmjahceh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWE-Ns95ORRPI40y-UBQRMm_t0_2x-KgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550067701054-0p5snb21275anuenjbqfg12fmjahceh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
